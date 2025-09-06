@@ -1,6 +1,6 @@
 # Newsletter Crew: Nintendo & Pokémon News
 
-## Setup
+## Setup 
 
 1. Create venv (already created by assistant as `jobhunt`):
 
