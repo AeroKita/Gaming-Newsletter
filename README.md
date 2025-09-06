@@ -42,3 +42,4 @@ streamlit run app/ui/app.py
 - Firecrawl SDK calls used: `crawl_url`, `scrape_url`, `batch_scrape_urls` with params support.
 
 # Gaming-Newsletter
+# Gaming-Newsletter
